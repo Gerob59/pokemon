@@ -6,3 +6,5 @@ Personnal project with 2 sub-directory :
 - BackEnd (spring / micro-service)
 
 probably more...
+
+DataBase with mongoDB
